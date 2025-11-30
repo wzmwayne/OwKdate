@@ -8,5 +8,16 @@
     "lyrics_path": "lyrics/temp.lrc",
     "upload_time": 1764495589.508452,
     "chunks_count": 2
+  },
+  {
+    "title": "原神-尘世四章",
+    "video_chunks": [
+      "videos/1764493446509_video_..._0_part_002.mp4",
+      "videos/1764493446509_video_..._0_part_000.mp4",
+      "videos/1764493446509_video_..._0_part_001.mp4"
+    ],
+    "lyrics_path": "lyrics/1764493446571_audio.lrc",
+    "upload_time": 1764495715.9491107,
+    "chunks_count": 3
   }
 ]
