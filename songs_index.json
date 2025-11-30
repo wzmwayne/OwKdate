@@ -19,5 +19,14 @@
     "lyrics_path": "lyrics/1764493446571_audio.lrc",
     "upload_time": 1764495715.9491107,
     "chunks_count": 3
+  },
+  {
+    "title": "原神-五常之歌",
+    "video_chunks": [
+      "videos/Wc_part_000.mp3"
+    ],
+    "lyrics_path": "lyrics/Wc.lrc",
+    "upload_time": 1764495897.9371266,
+    "chunks_count": 1
   }
 ]
